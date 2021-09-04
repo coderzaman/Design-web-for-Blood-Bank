@@ -1,0 +1,331 @@
+ @media(min-width:768px) and (max-width:991px) {
+     .top_left {
+         padding: 18px 0px 0px 0px;
+     }
+     #navid ul li {
+         padding: 47px 0px 0px 11px;
+     }
+     .free-simple-slider .slider-box {
+         height: 400px;
+     }
+     .about_part {
+         padding: 40px 0px;
+     }
+     .header h3 {
+         font-size: 30px;
+     }
+     .header p {
+         font-size: 14px;
+     }
+     .requierment {
+         padding: 40px 0px;
+         padding-bottom: 10px;
+     }
+     .gall_image {
+         margin-bottom: 30px;
+     }
+     .l_left {
+         left: 0px;
+     }
+     .l_right {
+         right: 00px;
+     }
+     .video_part {
+         padding: 100px 0px;
+     }
+     .team_part {
+         padding: 40px 0px;
+     }
+     .overlay_in_t a {
+         height: 40px;
+         width: 40px;
+         line-height: 40px;
+         margin-bottom: 15px;
+     }
+     .blog_part {
+         background-color: #e6ba86;
+         padding: 40px 0px;
+     }
+     .text_div h3 {
+         padding: 10px 0px 14px 0px;
+         font-size: 22px;
+     }
+     .text_div p {
+         color: #000;
+         font-size: 14px;
+     }
+     .text_div {
+         padding-bottom: 79px;
+     }
+     .text_first {
+         padding-top: 20px;
+     }
+     .partner {
+         padding: 40px 0px;
+     }
+     #contact_id {
+         padding: 40px 0px;
+         background-color: #e6ba86;
+     }
+     .contact p {
+         padding-bottom: 22px;
+     }
+     .roun_in {
+         width: 55px;
+         height: 55px;
+     }
+     .round_button {
+         width: 70px;
+         height: 70px;
+         margin-top: 16px;
+     }
+     .roun_in a {
+         font-size: 12px;
+     }
+     .btn_edit {
+         width: 151px;
+     }
+     .menu_bottom h3 {
+         margin-top: 115px;
+         margin-left: 0px;
+     }
+     .style_menu_f p a {
+         font-size: 12px;
+     }
+     .rokto {
+         font-size: 14px !important;
+     }
+     .fotter {
+         padding: 30px 0px;
+     }
+     .style_menu_f {
+         padding: 20px 0px;
+     }
+     .counter_part {
+         padding: 30px 0px;
+     }
+     .counter_inner h4 {
+         font-size: 15px;
+     }
+     .backgroun_dd {
+         padding: 30px 0px;
+         padding-bottom: 0px;
+     }
+     .blg_text p {
+         padding-bottom: 17px;
+     }
+ }
+ 
+ @media(max-width:767px) {
+     .top_right {
+         padding-top: 0px;
+         text-align: center !important;
+     }
+     .top_left h5 {
+         font-size: 14px;
+         text-align: center;
+     }
+     .top_right a {
+         font-size: 16px;
+         padding: 0px 5px;
+     }
+     .top_left {
+         padding: 10px 0px 5px 0;
+     }
+     .nav_edit {
+         background: #e6ba86;
+     }
+     #navid {
+         border: none;
+     }
+     #navid ul li {
+         padding: 5px 0px 0px 5px;
+         background: #e6ba86;
+     }
+     #navid ul .active a,
+     #navid ul li a:hover {
+         border-bottom: 1px solid transparent;
+     }
+     #navid ul li a {
+         text-align: center;
+     }
+     .free-simple-slider .slider-box {
+         height: 200px;
+     }
+     .free-simple-slider .arrows {
+         width: 33px;
+     }
+     .about_part {
+         padding: 20px 0px;
+         background-color: #e6ba86;
+     }
+     .header h3 {
+         font-size: 22px;
+     }
+     .header img {
+         padding: 2px 0px;
+         height: 23px;
+         width: 33px;
+         margin: 5px 0px;
+     }
+     .header p {
+         font-size: 11px;
+     }
+     .requer p {
+         padding-bottom: 25px;
+     }
+     .requierment {
+         padding: 20px 0px;
+         padding-bottom: 00px;
+     }
+     .team_part {
+         padding: 20px 0px;
+     }
+     .tweet_latest h3 {
+         font-size: 16px;
+     }
+     .team_head p {
+         padding-bottom: 18px;
+     }
+     .overlay_in_t a {
+         height: 30px;
+         width: 30px;
+         line-height: 30px;
+         margin-bottom: 10px;
+     }
+     .team_n {
+         padding: 1px 3px;
+     }
+     .counter_part {
+         padding: 20px 0px;
+     }
+     .counter_inner h4 {
+         font-size: 13px;
+     }
+     .counter_in h3 {
+         padding-bottom: 20px;
+     }
+     .video_part {
+         padding: 60px 0;
+     }
+     .video_part a i {
+         font-size: 20px;
+         height: 40px;
+         line-height: 40px;
+         width: 40px;
+     }
+     .counter_inner i {
+         font-size: 20px;
+         padding-bottom: 5px;
+     }
+     .counter_inner h3 {
+         font-size: 20px;
+         font-weight: 500;
+         padding-bottom: 8px;
+     }
+     .blog_part {
+         padding: 20px 0;
+     }
+     .text_first {
+         padding-top: 9px;
+     }
+     .text_div {
+         padding-bottom: 22px;
+     }
+     .text_div h6 {
+         font-size: 12px;
+         padding-top: 6px;
+     }
+     .text_div h3 {
+         font-size: 18px;
+         padding: 5px 0 8px;
+     }
+     .text_div p {
+         font-size: 12px;
+     }
+     .round_button {
+         height: 50px;
+         margin: 22px auto auto;
+         position: relative;
+         width: 50px;
+     }
+     .roun_in {
+         left: 5px;
+         position: absolute;
+         width: 40px;
+         height: 40px;
+         top: 50%;
+         border-radius: 50%;
+         text-align: center;
+         -webkit-transform: translateY(-50%);
+         background-color: #7b6c63;
+     }
+     .roun_in a {
+         font-size: 10px;
+     }
+     .partner {
+         padding: 20px 0px;
+     }
+     #contact_id {
+         padding: 20px 0px;
+     }
+     .contact p {
+         padding-bottom: 34px;
+     }
+     .message_text,
+     .text_input input {
+         margin-bottom: 18px;
+         font-size: 10px;
+     }
+     .btn_edit {
+         height: 35px;
+         width: 85px;
+     }
+     .fotter {
+         padding: 20px 0px;
+     }
+     .one_pd_f {
+         padding: 30px 0px 7px 0px;
+     }
+     .menu_bottom h3 {
+         margin: 20px 0px 0px 0px;
+     }
+     .style_menu_f {
+         padding: 20px 0px 0px 0px;
+     }
+     .style_menu_f p a {
+         font-size: 11px;
+         color: #000;
+         padding-bottom: 11px;
+     }
+     .three_f h3 {
+         padding-top: 14px;
+     }
+     .btn_edit_tiop {
+         background-color: #e6ba86;
+         margin: 0px;
+         border: none;
+     }
+     .navbar-default .btn_edit_tiop:focus,
+     .navbar-default .btn_edit_tiop:hover {
+         background-color: #e6ba86;
+         border: none;
+     }
+     .navbar-default .navbar-toggle .col_r {
+         background-color: red;
+     }
+     .backgroun_dd {
+         padding: 20px 0px;
+     }
+     .top {
+         background-color: #fff;
+     }
+     .backgroun_dd {
+         padding: 20px 0px;
+         padding-bottom: 0px;
+     }
+     .blood_part {
+         background-color: #e6ba86;
+         padding: 20px 0 0;
+     }
+ }

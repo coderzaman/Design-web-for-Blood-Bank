@@ -1,0 +1,284 @@
+* {
+    padding: 00;
+    margin: 00;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+.pl {
+    padding-left: 0px;
+}
+
+.pr {
+    padding-right: 0px;
+}
+
+.p_l_r {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    padding: 00;
+    margin: 00;
+}
+
+
+/*Top bar css start*/
+.header h3 {
+    font-size: 40px;
+    font-weight: 400;
+    color: #fe0000;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header img {
+    padding: 15px 0px;
+}
+
+.header p {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+    padding-bottom: 30px;
+    font-weight: 400;
+}
+.header p span{
+    color: #fe0000;
+    font-weight: 700;
+    
+}
+
+.top {
+    background-color: #e8c59c;
+}
+
+.top_left {
+    padding: 20px 0px;
+}
+
+.top_left h5 {
+    color: #000;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.top_right {
+    padding: 10px 0px;
+    padding-top: 15px;
+}
+
+.top_right a {
+    font-size: 16px;
+    padding-left: 20px;
+    color: #000;
+    transition: all .5s;
+}
+
+.top_right a:hover {
+    color: #b10606;
+}
+
+/*Top bar css End*/
+.backgroun_dd{
+    background-color: #e8c59c;
+    padding: 90px 0px;
+}
+.blog_log img{
+    padding: 15px 0px;
+}
+.blg_menu a{
+    margin: 43px 0px;
+    padding: 5px 20px;
+    display: inline-block;
+    background-color: #000;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #b10606;
+}
+.blg_menu a:hover{
+    background-color: transparent;
+    color: #b10606;
+}
+.blod_content{
+    padding: 30px 0px;
+    background-color: indianred;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.fotter {
+    background-color: #fff;
+    padding: 90px;
+}
+
+
+.one_pd_f {
+    padding: 30px 0px 40px 0px;
+}
+
+.one_f p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+}
+.menu_bottom h3,
+.two_f h3 {
+    font-size: 18px;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+.menu_bottom h3{
+    margin-left: 10px;
+}
+.two_f p {
+    font-size: 10px;
+    color: #000;
+    font-weight: 400;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.two_f h5 {
+    font-size: 14px;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 35px;
+    border-bottom: 1px solid #929292;
+}
+
+.three_f h3 {
+    font-size: 18px;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+.three_f p {
+    font-size: 10px;
+    color: #000;
+    font-weight: 400;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.three_f p span {
+    font-size: 14px;
+}
+
+.three_f h4 {
+    font-size: 14px;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #000;
+}
+.four_f h3 {
+    font-size: 18px;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.four_f h6 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    padding: 30px 0px 60px 0px;
+}
+.four_f p i{
+    font-size: 14px;
+    margin-right: 10px;
+}
+.four_f p{
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 10px;
+}
+.copyright{
+    padding: 30px;
+    background-color: #1c1c1c;
+}
+.copy_in p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #595959;
+}
+.three_f h4 a,
+.three_f p span a,
+.two_f h5 a {
+    text-decoration: none;
+    color: #000;
+    transition: all .5s;
+}
+.copy_right p a:hover,
+.three_f h4 a:hover,
+.three_f p span a:hover,
+.two_f h5 a:hover{
+    color: #fe0000;
+}
+.last_f{
+    border-bottom: 1px solid transparent !important;
+}
+.copyri{
+    padding: 7px 0px;
+    background-color: #000;
+}
+
+.copy_right p a{
+    text-decoration: none;
+    color: #fff;
+    transition: all .5s;
+}
+
+.style_menu_f{
+    padding-top: 20px;
+}
+.style_menu_f p a{
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    display: block;
+    transition: all .5s;
+}
+.style_menu_f p a:hover{
+    color: #fe0000;
+}
+.rokto{
+    font-size: 20px !important;
+    margin-bottom: 5px !important;
+    color: #fe0000 !important;
+}
+
+

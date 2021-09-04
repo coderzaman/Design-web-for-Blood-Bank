@@ -1,0 +1,19 @@
+
+.blog_page{
+     background: #E6BA86;
+    padding: 90px 0px;
+    
+}
+.blg_head img{
+    padding: 10px 0px 40px 0px;
+}
+.blg_text h4{
+    font-size: 14px;
+}
+.blg_text h3{
+    font-size: 25px;
+    padding: 10px 0px;
+}
+.blg_text p {
+	padding-bottom: 173px;
+}
